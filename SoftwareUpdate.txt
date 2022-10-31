@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Add visuals in guides/distance-calculation.md (#7876)
