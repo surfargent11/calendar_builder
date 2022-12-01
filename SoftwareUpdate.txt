@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Add plot_images conf_thresh parameter (#8446)
