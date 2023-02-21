@@ -1,1 +1,1 @@
-Add KaTeX support + updates to YOLOv9 model page (#8531)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
