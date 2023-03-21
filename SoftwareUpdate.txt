@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Update CITATION.cff with cffinit corrections (#8658)
