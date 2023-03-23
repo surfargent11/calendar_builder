@@ -1,1 +1,1 @@
-fix resume training
+Update pyproject.toml and Docs (#7274)
