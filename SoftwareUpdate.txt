@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+Add PR Summary step to Ultralytics Actions (#7675)
