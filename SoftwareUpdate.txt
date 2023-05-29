@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
