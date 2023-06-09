@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Add simple-utilities.md Docs page (#8269)
