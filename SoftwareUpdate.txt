@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Compress docs images (#8124)
