@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Add brain-tumor dataset docs page (#9041)
