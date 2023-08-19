@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Fix heatmaps width-height order bug (#7184)
