@@ -1,1 +1,1 @@
-Fix names bug when exporting YOLOv8-World to ONNX (#8941)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
