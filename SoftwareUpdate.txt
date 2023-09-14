@@ -1,1 +1,1 @@
-Add YOLOv8 LibTorch C++ inference example (#7090)
+Update Colab notebook for YOLOv8.1 (#8660)
