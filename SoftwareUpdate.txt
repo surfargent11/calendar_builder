@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
