@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
