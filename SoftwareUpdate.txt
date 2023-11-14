@@ -1,1 +1,1 @@
-Explorer with LanceDB, Actions and Docs updates (#7487)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
