@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
