@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Fix OBB xywh-angle concatenation bug (#7404)
