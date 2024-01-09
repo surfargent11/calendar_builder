@@ -1,1 +1,1 @@
-ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
