@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Add PaddlePaddle Docs Integrations Page (#8858)
