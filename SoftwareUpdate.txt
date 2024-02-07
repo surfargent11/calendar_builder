@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Update H1 in Explorer API docs (#7813)
