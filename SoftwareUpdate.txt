@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
