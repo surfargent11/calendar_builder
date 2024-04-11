@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
