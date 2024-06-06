@@ -1,1 +1,1 @@
-ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
